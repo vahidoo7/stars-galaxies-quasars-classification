@@ -3,7 +3,7 @@ Code for semi-supervised classification of astronomical objects using K-means an
 
 This project implements a semi-supervised classification framework combining K-means clustering and Random Forest to classify stars, galaxies, and quasars using limited labeled data.
 
-Key Steps:
+**Key Steps:**
 
 **1**- Clustering: The unlabeled dataset is partitioned into *K=50* clusters using K-means.
 
@@ -11,10 +11,14 @@ Key Steps:
 
 **3**- Classification: A Random Forest is trained on the expanded pseudo-labeled dataset.
 
-Advantages:
+**Advantages:**
 
 ✔ Label Efficiency: Achieves performance comparable to supervised methods using only 50 labeled samples.
 
 ✔ Robustness: Majority voting over 100 K-means initializations reduces instability.
 
 ✔ Scalability: Designed for high-dimensional photometric surveys (tested on 190 color features).
+
+**Performance:**
+
+F1-score: Star: 98.8%, Galaxy: 98.9%, Quasar: 92.0%	
