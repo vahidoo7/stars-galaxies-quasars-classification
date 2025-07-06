@@ -1,4 +1,4 @@
-# stars-galaxies-quasars-classification
+# stars-galaxies-quasars- semi-supervised classification
 Code for semi-supervised classification of astronomical objects using K-means and Random Forest.
 
 This project implements a semi-supervised classification framework combining K-means clustering and Random Forest to classify stars, galaxies, and quasars using limited labeled data.
