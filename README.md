@@ -21,4 +21,8 @@ This project implements a semi-supervised classification framework combining K-m
 
 **Performance:**
 
-F1-score: Star: 98.8%, Galaxy: 98.9%, Quasar: 92.0%	
+F1-score: Star: 98.8%, Galaxy: 98.9%, Quasar: 92.0%
+
+**Original Article**
+
+For more information, please read\url{https://arxiv.org/abs/2507.14072} its related article.
