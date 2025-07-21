@@ -25,4 +25,5 @@ F1-score: Star: 98.8%, Galaxy: 98.9%, Quasar: 92.0%
 
 **Original Article**
 
-For more information, please read\url{https://arxiv.org/abs/2507.14072} its related article.
+For more information, please refer to the related article:
+https://arxiv.org/abs/2507.14072.
